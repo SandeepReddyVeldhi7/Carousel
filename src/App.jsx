@@ -1,6 +1,6 @@
 import { useState,useEffect } from 'react'
+import "./App.css";
 
-import './App.css'
 const data = [
 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS75ebrwvgVW5Ks_oLfCbG8Httf3_9g-Ynl_Q&s",
 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2BjFcg6Sp0FkUslmmrCuWQQPFlTn0e23efg&s",
